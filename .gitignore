@@ -5,6 +5,7 @@
 /qordnet-env/
 /cache/
 /runs/
+/CLAUDE.md
 
 __pycache__/
 *.py[cod]
