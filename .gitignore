@@ -1,0 +1,15 @@
+# raw data, caches, venv, run outputs - don't commit
+/Data _March2021/
+/Data_July2022/
+/Data_May 2022/
+/qordnet-env/
+/cache/
+/runs/
+
+__pycache__/
+*.py[cod]
+*.zip
+.pytest_cache/
+.vscode/
+.idea/
+.notebook/

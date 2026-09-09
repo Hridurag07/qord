@@ -1,0 +1,12 @@
+# installed in qordnet-env (python 3.11). listing versions for reference.
+torch==2.11.0+cu126
+torchvision==0.26.0+cu126
+torch-geometric==2.8.0.post1
+pennylane==0.45.1
+timm
+numpy==2.4.6
+scipy==1.17.1
+scikit-image==0.26.0
+scikit-learn==1.9.0
+PyYAML==6.0.3
+pytest==9.1.1

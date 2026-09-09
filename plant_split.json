@@ -1,0 +1,32 @@
+{
+  "seed": 0,
+  "train": [
+    "july_10",
+    "july_3",
+    "july_4",
+    "july_5",
+    "july_6",
+    "july_9",
+    "march_1",
+    "march_10",
+    "march_13",
+    "march_2",
+    "march_4",
+    "march_5",
+    "march_9"
+  ],
+  "val": [
+    "july_1",
+    "july_7",
+    "march_11",
+    "march_7"
+  ],
+  "test": [
+    "july_2.1",
+    "july_8",
+    "march_12",
+    "march_3",
+    "march_6",
+    "march_8"
+  ]
+}
